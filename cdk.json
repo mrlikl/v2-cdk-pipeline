@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/v2-cdk-pipeline.ts",
+  "app": "npx ts-node --prefer-ts-exts bin/v2pipeline.ts",
   "watch": {
     "include": [
       "**"
